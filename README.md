@@ -1,6 +1,6 @@
 ### handsontable
 ---
-https://github.com/sutoiku/jsdox
+https://github.com/handsontable/handsontable
 
 ```
 ```
